@@ -1,0 +1,46 @@
+{
+	"lobsterdata": [
+                {
+                    "uniqueId": "1",
+                    "name": "Reef Lobster",
+                    "description": "Description of Reef Lobster",
+                    "species": "Clawed"
+                },
+                {
+                    "uniqueId": "2",
+                    "name": "Squat Lobster",
+                    "description": "Description of Squat Lobster",
+                    "species": "Clawed"
+                },
+                {
+                    "uniqueId": "3",
+                    "name": "American Lobster",
+                    "description": "Description of American Lobster",
+                    "species": "Clawed"
+                },
+                {
+                    "uniqueId": "4",
+                    "name": "European Lobster",
+                    "description": "Description of European Lobster",
+                    "species": "Clawed"
+                },
+                {
+                    "uniqueId": "5",
+                    "name": "Rock Lobster",
+                    "description": "Description of Rock Lobster",
+                    "species": "Spiny"
+                },
+                {
+                    "uniqueId": "6",
+                    "name": "Slipper Lobster",
+                    "description": "Description of Slipper Lobster",
+                    "species": "Spiny"
+                },
+                {
+                    "uniqueId": "7",
+                    "name": "Furry Lobster",
+                    "description": "Description of Furry Lobster",
+                    "species": "Spiny"
+                }
+            ]
+}
